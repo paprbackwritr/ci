@@ -1,3 +1,5 @@
+CodeIgniter Helloworld Steps
+
 1. Update the Base url.
 U /application/config/config.php.
 $config['base_url']	= 'http://localhost/emirates/ci/';
